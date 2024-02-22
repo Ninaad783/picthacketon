@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+#main{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  #img{
+    width: 500px;
+    height: 500px;
+    
+    border-radius: 4px;
+    }
+  
+  
+  #form-style{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    text-align: center;
+  }
+  h2{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    color: whitesmoke;
+    
+  }
+  label{
+    font-size: 30px;
+    display: block;
+    font-weight: bold;
+    padding: 10px 10px;
+    color: whitesmoke;
+  }
+  input{
+    border-color: black ;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgb(53, 54, 54);
+  }
+  #btn{
+    margin: 30px;
+    padding: 5px 30px;
+    background-color: rgb(53, 54, 54);
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+  }
+  #btn:hover{
+    background-color: black;
+    border: 2px solid whitesmoke;
+  }
+  a{
+    color: red;
+  }
+  
+    

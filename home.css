@@ -1,0 +1,93 @@
+#body{
+    width: 90%;
+    margin:30px auto;
+    
+}
+
+#main{
+    display: flex;
+    justify-content: space-evenly;
+    color:white;
+    margin-bottom: 150px;  
+}
+h1{
+    margin-top: 55px;
+    padding: 5px auto;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(119, 116, 116);
+
+}
+.content{
+    color:whitesmoke;
+    font-size: 50px;
+    padding: 30px auto;
+}
+span{
+    color: red;
+    font-size: 80px;
+}
+
+#img{
+    height: 600px;
+    width: 620px;
+    border-radius: 4px;
+    
+
+
+}
+button{
+    margin: 10px auto;
+    padding: 15px 55px;
+    background-color: rgb(5, 3, 3);
+    color: red;
+    border:2px solid rgb(224, 57, 57);
+    border-radius: 8px;
+    font-size: 25px;
+    font-weight: bold;
+    
+
+}
+#about{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+h3{
+    color: red;
+    font-size: 80px;
+}
+#about p{
+    color:whitesmoke;
+    font-size: 35px;
+    padding: 30px auto;
+}
+#chat{
+    color:white;
+}
+#chatwithme{
+    margin-top: -50px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    list-style-type: none;
+    
+}
+.roundbox{
+    width:400px;
+    background-color: rgb(214, 19, 19);
+    padding: 20px 20px;
+    border-radius: 200px;
+    text-align: center;
+    margin: 100px auto;
+    margin-left: 100px;
+    
+}
+.squarebox{
+    width:450px;
+    background-color: rgb(214, 19, 19);
+    padding: 20px 20px;
+    transform: skewY(-3deg);
+    border-radius: 10px;
+}
